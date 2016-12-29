@@ -1,0 +1,4 @@
+all:
+	@gcc lab2.c -o lab2
+	@./lab2
+	@rm -rf lab2
